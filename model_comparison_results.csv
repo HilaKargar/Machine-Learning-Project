@@ -1,0 +1,8 @@
+,Logistic Regression,Decision Tree,Random Forest,Gradient Boosting,AdaBoost
+Accuracy,0.862,0.829,0.884,0.888,0.886
+Precision,0.843,0.811,0.89,0.895,0.89
+Recall,0.871,0.836,0.863,0.867,0.867
+F1,0.857,0.823,0.877,0.881,0.878
+ROC-AUC,0.934,0.83,0.955,0.959,0.95
+CV_Mean,0.856,0.835,0.878,0.88,0.867
+CV_Std,0.015,0.01,0.01,0.01,0.016
